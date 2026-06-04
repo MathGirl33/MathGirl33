@@ -1,4 +1,9 @@
-## Hi there 👋 This is Sandie!
+## Hi I'm Sandie!
+Math Undergraduate
+C++/Python
+喜欢睡懒觉
+
+![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzhjbWNxOWticXkxcjBsbHM0aGx4Y3lqZGR5NGtmZjBmczVzZ2ZkcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rZmWH1k7ESg3ccoUeP/giphy.gif)
 
 <!--
 **MathGirl33/MathGirl33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
