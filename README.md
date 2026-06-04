@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 This is Sandie!
+
+Learning C++/Python now
 
 <!--
 **MathGirl33/MathGirl33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
